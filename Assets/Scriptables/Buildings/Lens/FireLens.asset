@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c34b7ac0ee804d41989c860d2753e9fb, type: 3}
+  m_Name: FireLens
+  m_EditorClassIdentifier: 
+  elementType: 0
+  maxHealth: 50
+  cost: 15
+  baseSprite: {fileID: 21300000, guid: 7906aecf4ce834746ab4a331d2116d0b, type: 3}
+  _sphereSprite: {fileID: 21300000, guid: dedf4086ce9d5b743a091007a2fead47, type: 3}

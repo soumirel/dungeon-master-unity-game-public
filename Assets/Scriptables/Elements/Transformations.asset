@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4056f25df17439cac81e30f21d5888b, type: 3}
+  m_Name: Transformations
+  m_EditorClassIdentifier: Assembly-CSharp::TransformationsSO
+  _transformations:
+  - firstElement: {fileID: 11400000, guid: 6c00512c00074424a929faa409cb60be, type: 2}
+    secondElement: {fileID: 11400000, guid: 9386cd3bd1cf212458de7777bd83f6e5, type: 2}
+    resultElement: {fileID: 11400000, guid: 107bc20c0fce3a74cb58bc912a040e35, type: 2}
+  - firstElement: {fileID: 11400000, guid: 6c00512c00074424a929faa409cb60be, type: 2}
+    secondElement: {fileID: 11400000, guid: bc750c553a9d6b843936efdc261c8b51, type: 2}
+    resultElement: {fileID: 11400000, guid: cc3b11701b7799547a38d463a5927dc2, type: 2}
+  - firstElement: {fileID: 11400000, guid: 6c00512c00074424a929faa409cb60be, type: 2}
+    secondElement: {fileID: 11400000, guid: 167b298dce49fb14eb315047513f088f, type: 2}
+    resultElement: {fileID: 11400000, guid: 4bf24b3990bc1f344acdf5b1e1d62117, type: 2}
+  - firstElement: {fileID: 11400000, guid: 9386cd3bd1cf212458de7777bd83f6e5, type: 2}
+    secondElement: {fileID: 11400000, guid: 167b298dce49fb14eb315047513f088f, type: 2}
+    resultElement: {fileID: 11400000, guid: f32bf014b8ba9134ca1c1d413e1fd05c, type: 2}
+  - firstElement: {fileID: 11400000, guid: 9386cd3bd1cf212458de7777bd83f6e5, type: 2}
+    secondElement: {fileID: 11400000, guid: bc750c553a9d6b843936efdc261c8b51, type: 2}
+    resultElement: {fileID: 11400000, guid: eced6ee2b96e7944c91e35716fbdde4c, type: 2}
+  - firstElement: {fileID: 11400000, guid: 167b298dce49fb14eb315047513f088f, type: 2}
+    secondElement: {fileID: 11400000, guid: bc750c553a9d6b843936efdc261c8b51, type: 2}
+    resultElement: {fileID: 11400000, guid: 39db6b36959ce9849955feed00c946ad, type: 2}

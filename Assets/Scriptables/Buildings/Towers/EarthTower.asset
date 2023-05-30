@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3a8d76f439a460d8804e4cb1b881de5, type: 3}
+  m_Name: EarthTower
+  m_EditorClassIdentifier: 
+  elementType: 3
+  maxHealth: 120
+  cost: 35
+  baseSprite: {fileID: 1294007375, guid: ecf4eb16471282243be60ec19dea00b2, type: 3}
+  _projectileSpeed: 1
+  _shotsInterval: 1.2
+  _animatorController: {fileID: 9100000, guid: e4838965be7e87a4a87e38ecfc2cde65, type: 2}

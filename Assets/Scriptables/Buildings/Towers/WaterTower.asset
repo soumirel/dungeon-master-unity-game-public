@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3a8d76f439a460d8804e4cb1b881de5, type: 3}
+  m_Name: WaterTower
+  m_EditorClassIdentifier: 
+  elementType: 1
+  maxHealth: 75
+  cost: 20
+  baseSprite: {fileID: 657820758, guid: 2d0e177e24d09024dacf420acb09f643, type: 3}
+  _projectileSpeed: 1
+  _shotsInterval: 0.8
+  _animatorController: {fileID: 9100000, guid: ac6b3d24c0241064b87b0cd325dca38b, type: 2}

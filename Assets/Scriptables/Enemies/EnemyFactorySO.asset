@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8966877d67483fa17b4aad7524b7e9, type: 3}
+  m_Name: EnemyFactorySO
+  m_EditorClassIdentifier: 
+  _basicPrefab: {fileID: 3658119519718421590, guid: 857a2787ecaf2284cbdcf686469cd32e, type: 3}
+  _fastPrefab: {fileID: 5122580168326059958, guid: 6582ff9804c83cd4295828a855818bf8, type: 3}
+  _heavyPrefab: {fileID: 7016481132215594033, guid: 3069a3e88bb317345899597fa85254ae, type: 3}
+  _eliteFastPrefab: {fileID: 6492724250595578094, guid: 950cc1ff23371b14d8e2dfd270dabb66, type: 3}
+  _eliteHeavy: {fileID: 5333167698366689719, guid: 151192fba436c6b4694186eef8326ad5, type: 3}

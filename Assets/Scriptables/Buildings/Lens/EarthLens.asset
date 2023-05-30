@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c34b7ac0ee804d41989c860d2753e9fb, type: 3}
+  m_Name: EarthLens
+  m_EditorClassIdentifier: 
+  elementType: 3
+  maxHealth: 60
+  cost: 20
+  baseSprite: {fileID: 21300000, guid: 46698df3e5c124047b6f2edc82ae4762, type: 3}
+  _sphereSprite: {fileID: 21300000, guid: e8bba2760501a9d4388b0bb3dbebb1ec, type: 3}

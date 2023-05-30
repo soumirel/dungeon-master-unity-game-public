@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c34b7ac0ee804d41989c860d2753e9fb, type: 3}
+  m_Name: WaterLens
+  m_EditorClassIdentifier: 
+  elementType: 1
+  maxHealth: 38
+  cost: 15
+  baseSprite: {fileID: 21300000, guid: 03382bcb316c538409b9c8676b4ae10a, type: 3}
+  _sphereSprite: {fileID: 21300000, guid: 9f56020f11864344a8765d895c754f58, type: 3}
